@@ -1,0 +1,20 @@
+{
+  "name": "untitled2",
+  "homepage": "https://github.com/joan1711/testowa",
+  "authors": [
+    "joan1711 <joanna.sagan@onet.eu>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
